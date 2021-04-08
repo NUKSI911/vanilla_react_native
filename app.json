@@ -5,6 +5,7 @@
     "name": "Vanila",
     "slug": "Vanila",
     "version": "1.0.0",
+    "orientation":"default",
     "assetBundlePatterns": [
       "**/*"
     ]
